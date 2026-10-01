@@ -5,6 +5,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-banco%20de%20dados-blue)
 
 Sistema desktop para registrar, distribuir e acompanhar chamados de suporte técnico de uma empresa.
+“Projeto desenvolvido para estudo de Java e desenvolvimento de sistemas.”
 Projeto Integrador do curso **Técnico em Desenvolvimento de Sistemas** (Senac).
 
 ## 📌 Status do projeto
