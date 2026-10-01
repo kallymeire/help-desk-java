@@ -147,4 +147,4 @@ help-desk-java/
 
 ## 📄 Autoria
 
-Projeto desenvolvido por **Kallymeire Coelho** como Projeto Integrador do curso Técnico em Desenvolvimento de Sistemas.
+Projeto desenvolvido por **Kallymeire Coelho** como "Projeto desenvolvido para estudo de Java e desenvolvimento de sistemas." PI do curso Técnico em Desenvolvimento de Sistemas.
