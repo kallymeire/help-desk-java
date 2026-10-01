@@ -1,0 +1,19 @@
+# Arquivos gerados pelo NetBeans e pela compilação
+build/
+dist/
+out/
+nbproject/private/
+nbproject/build-impl.xml
+nbproject/genfiles.properties
+nbproject/profiler-build-impl.xml
+*.class
+fontes.txt
+
+# Senha do banco e driver (não devem ir para o repositório)
+config/banco.properties
+lib/*.jar
+
+# Sistema operacional e editores
+.DS_Store
+Thumbs.db
+*.log

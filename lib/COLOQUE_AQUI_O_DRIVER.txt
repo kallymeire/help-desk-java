@@ -1,0 +1,4 @@
+Se o seu NetBeans não tiver a biblioteca "MySQL JDBC Driver", baixe o MySQL Connector/J
+(arquivo mysql-connector-j-8.x.x.jar) em https://dev.mysql.com/downloads/connector/j/ (opção "Platform Independent")
+e coloque o .jar nesta pasta (lib). O arquivo executar.bat usa automaticamente os .jar desta pasta.
+No NetBeans: botão direito em Libraries > Add JAR/Folder > escolha o .jar.

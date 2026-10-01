@@ -1,0 +1,8 @@
+# Modelo de configuração do banco de dados MySQL do Help Desk.
+# Copie este arquivo para config/banco.properties e ajuste usuario e senha.
+# (config/banco.properties não vai para o GitHub, para não expor a senha do seu banco.)
+host=localhost
+porta=3306
+banco=helpdesk
+usuario=root
+senha=
